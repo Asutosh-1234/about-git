@@ -7,6 +7,7 @@
 #### `cat <file name>` this will tell us the contain of that file
 #### `head` file will tells us in which branch we are now 
 #### what git do : it just kept the changes or track what we just changed  
+
 ---
 
 ## what is git and GitHub
@@ -49,7 +50,8 @@ it will remove the added thing or we can simply say that (current - added things
 
 ### `git reset --hard <commited id>` 
 this will move the head to that commited id means it will delete the data till that commited id  
-if we are not using the hard then it will take all chnages to the staging area and unable us to commit once again and if we are using the  
+if we are not using the hard then it will take all chnages to the staging area and unable us to commit once again and if we are using the
+
 ### `--hard` 
 then it will delete all thing and go to the given commited id 
 
